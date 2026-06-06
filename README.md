@@ -57,6 +57,6 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
-
+https://github.com/ssrajuresh-oss/Exp--7-Prompt-Engineering/blob/main/Experiment_7_Rajuresh.docx
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
